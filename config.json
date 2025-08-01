@@ -1,0 +1,18 @@
+{
+  "name": "Suntech Plugin",
+  "shortName": "suntech",
+  "version": "0.0.1",
+  "author": "Surprise",
+  "description": "Local Account Setup for our Suntech Team and AV setup",
+  "hasAdminPanel": false,
+  "homepage": "https://github.com/SunTechEP/Plugin",
+  "changelogUrl": "https://github.com/SunTechEP/Plugin/blob/main/ChangeLog.md",
+  "configUrl": "https://github.com/SunTechEP/Plugin/blob/main/config.json",
+  "downloadUrl": "https://github.com/SunTechEP/Plugin/blob/main/suntech.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SunTechEP/Plugin.git"
+  },
+  "versionHistoryUrl": "https://example.com/suntech/tags",
+  "meshCentralCompat": ">=0.4.4-s"
+}
